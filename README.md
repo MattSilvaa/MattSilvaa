@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Matheus</h1>
-<h3 align="center">I am a full-stack software engineering currently living in the Pacific Northwest</h3>
+<h3 align="center">I am a full-stack software engineer, currently living in the Pacific Northwest</h3>
 
 - 🔭 I’m curious about learning new skills and contributing to interesting projects
 - Feel free to reach out to me to chat, exchange ideas, or for any other reason :smile:

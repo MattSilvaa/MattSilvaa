@@ -4,8 +4,8 @@
 - 🔭 I’m curious about learning new skills and contributing to interesting projects
 - Feel free to reach out to me to chat, exchange ideas, or for any other reason :smile:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!--  <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left"> -->
 <!-- <a href="https://linkedin.com/in/mmunizdasilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmunizdasilva" height="30" width="40" /></a> -->
 </p>
 
